@@ -101,11 +101,20 @@ For other email servers, you can check the list of well-known services that Node
 
 Use the following connector settings to send email from Elastic Cloud: 
 
-* Sender: `noreply@watcheralert.found.io`
-* Host: `dockerhost`
-* Port: `10025`
-* Secure: turn off
-* Authentication: turn off
+Sender::
+`noreply@watcheralert.found.io`
+
+Host::
+`dockerhost`
+
+Port::
+`10025`
+
+Secure::
+Toggle off
+
+Authentication::
+Toggle off
 
 [float]
 [[gmail]]
